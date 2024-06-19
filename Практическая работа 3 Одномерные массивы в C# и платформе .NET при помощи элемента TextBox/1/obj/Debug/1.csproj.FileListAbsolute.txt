@@ -1,0 +1,20 @@
+D:\wpf\pr3\1\bin\Debug\1.exe.config
+D:\wpf\pr3\1\bin\Debug\1.exe
+D:\wpf\pr3\1\bin\Debug\1.pdb
+D:\wpf\pr3\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\wpf\pr3\1\obj\Debug\_1.Form1.resources
+D:\wpf\pr3\1\obj\Debug\_1.Properties.Resources.resources
+D:\wpf\pr3\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\wpf\pr3\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\wpf\pr3\1\obj\Debug\1.exe
+D:\wpf\pr3\1\obj\Debug\1.pdb
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\bin\Debug\1.exe.config
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\bin\Debug\1.exe
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\bin\Debug\1.pdb
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\_1.Form1.resources
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\1.exe
+C:\Users\Gecko\Desktop\Windows Forms\Практическая работа 3 Одномерные массивы в C# и платформе .NET при помощи элемента TextBox\1\obj\Debug\1.pdb
