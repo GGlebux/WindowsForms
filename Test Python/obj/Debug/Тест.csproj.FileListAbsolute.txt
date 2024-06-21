@@ -19,3 +19,13 @@ C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.GenerateResource.cache
 C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Тест\obj\Debug\Тест.exe
 C:\Users\User\Desktop\Тест\obj\Debug\Тест.pdb
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест.csproj.AssemblyReference.cache
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест.Form1.resources
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест.Properties.Resources.resources
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест.csproj.GenerateResource.cache
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\bin\Debug\Тест по Python.exe.config
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\bin\Debug\Тест по Python.exe
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\bin\Debug\Тест по Python.pdb
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест по Python.exe
+C:\Users\Gecko\Desktop\WindowsForms\Test Python\obj\Debug\Тест по Python.pdb
